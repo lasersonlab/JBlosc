@@ -1,6 +1,8 @@
 | **Travis CI** | **Appveyor** |
 |---------------|--------------|
-|[![Build Status](https://travis-ci.org/Blosc/JBlosc.svg?branch=master)](https://travis-ci.org/Blosc/JBlosc) |[![Build status](https://ci.appveyor.com/api/projects/status/am0bqlei05iw83rs?svg=true)](https://ci.appveyor.com/project/FrancescAlted/jblosc-9eoe9)|
+|[![Build Status](https://travis-ci.org/lasersonlab/JBlosc.svg?branch=master)](https://travis-ci.org/lasersonlab/JBlosc) |[![Build status](https://ci.appveyor.com/api/projects/status/am0bqlei05iw83rs?svg=true)](https://ci.appveyor.com/project/FrancescAlted/jblosc-9eoe9)|
+
+*Minor fork of [Blosc/JBlosc](https://github.com/Blosc/JBlosc); released as [`org.lasersonlab:jblosc:1.0.1`](https://oss.sonatype.org/content/repositories/releases/org/lasersonlab/jblosc/1.0.1/)*
 
 # JBlosc: A Java interface for Blosc
 
